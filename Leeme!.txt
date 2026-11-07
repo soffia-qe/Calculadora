@@ -1,0 +1,9 @@
+Despues de haber diseñado la calculadora o aplicación GUI en dising Qt 
+de python se debe 
+
+Ingresar al cmd de la carpeta donde este ubicado el archivo .ui
+en este ejemplo sera Calculadora.ui
+
+y se ingresa la siguiente linea de codigo
+
+# pyuic4 -x "Calculaldora.ui" -o "Calculadora.py"
